@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Get Rid of Ants | </title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+  <div class="blog-masthead">
+    <div class="container">
+      <nav class="blog-nav">
+        <a class="blog-nav-item active" href="#">Home</a>
+        <a class="blog-nav-item" href="#">Top Methods</a>
+        <a class="blog-nav-item" href="#">Press</a>
+        <a class="blog-nav-item" href="#">New hires</a>
+        <a class="blog-nav-item" href="#">About</a>
+      </nav>
+    </div>
+  </div>
+
+  <div class="container container-fluid">
+
+    <div class="blog-header jumbotron container-fluid">
+    <h1>Get Rid of Ants</h1>
+    <p>now</p>
+    </div>
+  </div>
+
+  <div class="container"
+    <div class="row">
+
+      <div class="col-sm-8 blog-main">
+        <div class="blog-post">
+          <!-- content goes here -->
