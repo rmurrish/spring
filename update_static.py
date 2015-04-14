@@ -11,7 +11,7 @@ import os, re, subprocess
 
 for filename in os.listdir('articles'):
   if filename[-3:] == ".md":
-    cmdString = "cat static/header.htm <(pandoc articles/" + filename + ") static/footer.htm > live/articles/" + filename[0:-2] + "htm"
+    cmdString = "cat static/header.htm <(pandoc articles/" + filename + ") static/footer.htm > ../live/articles/" + filename[0:-2] + "htm"
     #print cmdString
     print "Generated " + filename[0:-2] + "htm"
     #os.system(cmdString)
